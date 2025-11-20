@@ -1,4 +1,4 @@
 # EEG-Person-Identification!
 
 
-[alt text](<Images/EEG authentication system.webp>)
+![image](<Images/EEG authentication system.webp>)
