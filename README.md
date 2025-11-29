@@ -1,6 +1,7 @@
 # EEG-Based Universal and Privacy-Preserving Authentication System
 
-**Original Paper:** [Towards a universal and privacy preserving EEG-based authentication system](https://www.nature.com/articles/s41598-022-06527-7)
+**Original Paper:** [Towards a universal and privacy preserving EEG-based authentication system](https://www.nature.com/articles/s41598-022-06527-7) .
+
 **Kaggle Notebook:** [ EEG-based authentication system](https://www.kaggle.com/code/gamalasran/eeg-authentication-system)
 
 ## 1. Introduction
